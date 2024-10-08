@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hiking Trail Finder
 
-## Getting Started
+## Description
 
-First, run the development server:
+Hiking Trail Finder is a web application designed and built with v0 based on data that was generated from my scripts/ folder.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is built using Next.js, leveraging the power of React for the frontend and server-side rendering capabilities. It uses shadcn/ui for styling, Leaflet for map visualization, and Lucide icons for a sleek user interface.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Interactive map display of hiking trails
+- Filtering options for trail difficulty, bike trails, and fishing spots
+- Search functionality to find trails by name
+- Responsive design for both desktop and mobile views
+- Modal for scheduling hikes with animation effects
+- Dynamic marker placement on the map based on filtered results
 
-## Learn More
+## Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js
+- React
+- TypeScript
+- shadcn/ui
+- Leaflet
+- Lucide Icons
+- Framer Motion
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Setup and Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository:
 
-## Deploy on Vercel
+   ```
+   git clone https://github.com/your-username/hiking-trail-finder.git
+   ```
+2. Navigate to the project directory:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```
+   cd hiking-trail-finder
+   ```
+3. Install dependencies:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```
+   npm install
+   ```
+4. Run the development server:
+
+   ```
+   npm run dev
+   ```
+5. Open your browser and visit `http://localhost:3000`
+
+## Usage
+
+1. Use the search bar to find trails by name
+2. Toggle the "Bike Trail" and "Fishing" buttons to filter for these features
+3. Select difficulty levels using the difficulty cards
+4. Click on map markers or use the "Schedule Hike" button on trail cards to open the scheduling modal
+5. View trail details in the sidebar and on the map
+
+## Data Source
+
+The application currently uses a sample subset of trail data. In a production environment, this would be replaced with the full dataset from Boulder county's open data.
+
+## Future Enhancements
+
+- Integrate the full Boulder county trail dataset
+- Implement user authentication for personalized experiences
+- Add more detailed trail information and photos
+- Implement real-time weather data for trails
+- Create a mobile app version
+
+## Contributing
+
+Contributions to the Hiking Trail Finder project are welcome. Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
