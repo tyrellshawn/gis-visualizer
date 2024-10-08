@@ -1,0 +1,3302 @@
+[
+    {
+        "FID": 1,
+        "AccessName": "Teller Farm South",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.021625944802835,
+        "Longitude": -105.15876668120139
+    },
+    {
+        "FID": 2,
+        "AccessName": "Coalton Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.928726513244385,
+        "Longitude": -105.16668020464388
+    },
+    {
+        "FID": 3,
+        "AccessName": "Black Bear Hole",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22103954392823,
+        "Longitude": -105.26362577296347
+    },
+    {
+        "FID": 4,
+        "AccessName": "Harlow Platts Community Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.973826063192156,
+        "Longitude": -105.25018048778172
+    },
+    {
+        "FID": 5,
+        "AccessName": "County Commons Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.93137377798527,
+        "Longitude": -105.03546282127363
+    },
+    {
+        "FID": 6,
+        "AccessName": "Viewpoint Trail at University",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.010348820661655,
+        "Longitude": -105.2900469412516
+    },
+    {
+        "FID": 7,
+        "AccessName": "Dawson Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.19202610868876,
+        "Longitude": -105.13888828538559
+    },
+    {
+        "FID": 8,
+        "AccessName": "East Boulder Trail at White Rocks",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.062041209952916,
+        "Longitude": -105.13178948270183
+    },
+    {
+        "FID": 9,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.979509201240994,
+        "Longitude": -105.03020312060642
+    },
+    {
+        "FID": 10,
+        "AccessName": "Meadow Glen Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.005754120169954,
+        "Longitude": -105.22204129330933
+    },
+    {
+        "FID": 11,
+        "AccessName": "Milner Pass",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.42011822480232,
+        "Longitude": -105.81181171205765
+    },
+    {
+        "FID": 12,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92777426690249,
+        "Longitude": -105.00898186112018
+    },
+    {
+        "FID": 13,
+        "AccessName": "Buckingham Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.11130431847637,
+        "Longitude": -105.30644396738776
+    },
+    {
+        "FID": 14,
+        "AccessName": "Elks Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04711397707176,
+        "Longitude": -105.26057735891143
+    },
+    {
+        "FID": 15,
+        "AccessName": "Left Hand Trail at Pebble Beach Ln.",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08722829956535,
+        "Longitude": -105.26358437410359
+    },
+    {
+        "FID": 16,
+        "AccessName": "Foothills at Second and Denver",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.06873950801074,
+        "Longitude": -105.2897805108198
+    },
+    {
+        "FID": 17,
+        "AccessName": "Four Pines at Sierra",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99484916894033,
+        "Longitude": -105.27382260544903
+    },
+    {
+        "FID": 18,
+        "AccessName": "Heatherwood Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.050895398441504,
+        "Longitude": -105.17857983686964
+    },
+    {
+        "FID": 19,
+        "AccessName": "Bluebell Road at Bogess Cir",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99595028220563,
+        "Longitude": -105.28242311281014
+    },
+    {
+        "FID": 20,
+        "AccessName": "Long Canyon",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98638937054198,
+        "Longitude": -105.31983658344605
+    },
+    {
+        "FID": 21,
+        "AccessName": "Flagstaff Summit West",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00502721994529,
+        "Longitude": -105.30652280443539
+    },
+    {
+        "FID": 22,
+        "AccessName": "Public Road Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98011135580291,
+        "Longitude": -105.09110676965913
+    },
+    {
+        "FID": 23,
+        "AccessName": "Tom Watson Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08589400557897,
+        "Longitude": -105.20642618055942
+    },
+    {
+        "FID": 24,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.926137309407416,
+        "Longitude": -105.07110531542922
+    },
+    {
+        "FID": 25,
+        "AccessName": "Falcon Ln. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.221692088994054,
+        "Longitude": -105.25623473394472
+    },
+    {
+        "FID": 26,
+        "AccessName": "Stone Canyon Dr. - NE Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.222177801441454,
+        "Longitude": -105.25465690603022
+    },
+    {
+        "FID": 27,
+        "AccessName": "Four Pines at 15th St",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99608184616037,
+        "Longitude": -105.2736646232316
+    },
+    {
+        "FID": 28,
+        "AccessName": "Colorado River",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.400871736654096,
+        "Longitude": -105.84874413665557
+    },
+    {
+        "FID": 29,
+        "AccessName": "Lily Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.306625726273225,
+        "Longitude": -105.53778774839574
+    },
+    {
+        "FID": 30,
+        "AccessName": "Dakota Ridge Trail at 4th & Maxwell",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02385426486688,
+        "Longitude": -105.29385170173857
+    },
+    {
+        "FID": 31,
+        "AccessName": "Sandstone Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.153037155781384,
+        "Longitude": -105.03949931835784
+    },
+    {
+        "FID": 32,
+        "AccessName": "Eben G. Fine Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01334511641701,
+        "Longitude": -105.29459579425472
+    },
+    {
+        "FID": 33,
+        "AccessName": "Tuxedo Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.346021521852066,
+        "Longitude": -105.58471722375332
+    },
+    {
+        "FID": 34,
+        "AccessName": "East Inlet",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.23969643017221,
+        "Longitude": -105.8002082669575
+    },
+    {
+        "FID": 35,
+        "AccessName": "LaVerne Johnson Park Perimeter Trail - Town Hall/Highway Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22363145071373,
+        "Longitude": -105.27188144223979
+    },
+    {
+        "FID": 36,
+        "AccessName": "Keewaydin Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.993160284768045,
+        "Longitude": -105.22900638984791
+    },
+    {
+        "FID": 37,
+        "AccessName": "Picture Rock Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21134257408713,
+        "Longitude": -105.273052146481
+    },
+    {
+        "FID": 38,
+        "AccessName": "Fern Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.354892897621234,
+        "Longitude": -105.63097821958883
+    },
+    {
+        "FID": 39,
+        "AccessName": "Goransen Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21420215978972,
+        "Longitude": -105.26173380599074
+    },
+    {
+        "FID": 40,
+        "AccessName": "Noland Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.214429524633516,
+        "Longitude": -105.263267797916
+    },
+    {
+        "FID": 41,
+        "AccessName": "Beaver Sourdough Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.12117999969663,
+        "Longitude": -105.52400000027488
+    },
+    {
+        "FID": 42,
+        "AccessName": "Lagerman Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.135641169516106,
+        "Longitude": -105.1904625933445
+    },
+    {
+        "FID": 43,
+        "AccessName": "Valmont Bike Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.029905438819185,
+        "Longitude": -105.2304026987862
+    },
+    {
+        "FID": 44,
+        "AccessName": "Foothills at Second and Dakota Blvd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.065501157010296,
+        "Longitude": -105.2911440366401
+    },
+    {
+        "FID": 45,
+        "AccessName": "Foothills access to Eagle",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.072834698860284,
+        "Longitude": -105.28198329854534
+    },
+    {
+        "FID": 46,
+        "AccessName": "Glacier Creek Riding Stable",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.322918744933695,
+        "Longitude": -105.60516007957112
+    },
+    {
+        "FID": 47,
+        "AccessName": "Sanitas Valley South at Sunshine Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02072789599714,
+        "Longitude": -105.29455165643155
+    },
+    {
+        "FID": 48,
+        "AccessName": "Hidden Valley",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.39395074266094,
+        "Longitude": -105.65466186727005
+    },
+    {
+        "FID": 49,
+        "AccessName": "South Boulder Creek at East Bldr Com. Center",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99306602906966,
+        "Longitude": -105.21863003084941
+    },
+    {
+        "FID": 50,
+        "AccessName": "Bohn Park Parking Lot",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21942619586454,
+        "Longitude": -105.2658896541419
+    },
+    {
+        "FID": 51,
+        "AccessName": "Peregrine Ln. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22074445918479,
+        "Longitude": -105.25689910008107
+    },
+    {
+        "FID": 52,
+        "AccessName": "Sourdough Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02785399981885,
+        "Longitude": -105.52500000035758
+    },
+    {
+        "FID": 53,
+        "AccessName": "Livery",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.35769591396717,
+        "Longitude": -105.613516473347
+    },
+    {
+        "FID": 54,
+        "AccessName": "Forest Canyon Overlook",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.39566803070086,
+        "Longitude": -105.71139973819444
+    },
+    {
+        "FID": 55,
+        "AccessName": "Coyote Valley",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.34464487374288,
+        "Longitude": -105.8584264482824
+    },
+    {
+        "FID": 56,
+        "AccessName": "Lake Irene",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.41370723893438,
+        "Longitude": -105.81890581565419
+    },
+    {
+        "FID": 57,
+        "AccessName": "Wildwood Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.976680647033085,
+        "Longitude": -105.26692731249963
+    },
+    {
+        "FID": 58,
+        "AccessName": "Bohn Park Trail - McConnell Dr. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21628691021904,
+        "Longitude": -105.25775940854383
+    },
+    {
+        "FID": 59,
+        "AccessName": "Fourth of July Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99509300030396,
+        "Longitude": -105.63400000038934
+    },
+    {
+        "FID": 60,
+        "AccessName": "Lily Lake Visitor Center",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.30658927135836,
+        "Longitude": -105.53707612009565
+    },
+    {
+        "FID": 61,
+        "AccessName": "Ethel Harrold Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95556591889953,
+        "Longitude": -105.32233153736671
+    },
+    {
+        "FID": 62,
+        "AccessName": "Gerald Stazio Ballfields North",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02745448729543,
+        "Longitude": -105.21515545333165
+    },
+    {
+        "FID": 63,
+        "AccessName": "Dry Creek",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99967017535237,
+        "Longitude": -105.19094142144208
+    },
+    {
+        "FID": 64,
+        "AccessName": "Deer Mountain",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.38697924077749,
+        "Longitude": -105.6099358577948
+    },
+    {
+        "FID": 65,
+        "AccessName": "Betasso Link Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.007170180460754,
+        "Longitude": -105.33330030385403
+    },
+    {
+        "FID": 66,
+        "AccessName": "Halfway House",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00650730984844,
+        "Longitude": -105.29456601420473
+    },
+    {
+        "FID": 67,
+        "AccessName": "Ute Trail East",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.393363467608005,
+        "Longitude": -105.69537421483564
+    },
+    {
+        "FID": 68,
+        "AccessName": "South Boulder Creek at US 36 - South",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.980258743043954,
+        "Longitude": -105.22155405608238
+    },
+    {
+        "FID": 69,
+        "AccessName": "Old Marshall Mesa",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95579673554608,
+        "Longitude": -105.21854825451416
+    },
+    {
+        "FID": 70,
+        "AccessName": "Upper Beaver Meadows",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.37067237007657,
+        "Longitude": -105.59639036464482
+    },
+    {
+        "FID": 71,
+        "AccessName": "Ceran Saint Vrain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.12443399980703,
+        "Longitude": -105.44199999978125
+    },
+    {
+        "FID": 72,
+        "AccessName": "Upper Crown Rock",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.001922070628574,
+        "Longitude": -105.29802699302572
+    },
+    {
+        "FID": 73,
+        "AccessName": "Autrey Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.93703134360192,
+        "Longitude": -105.14264128853915
+    },
+    {
+        "FID": 74,
+        "AccessName": "Foothills Community Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.057201109909066,
+        "Longitude": -105.28848682721622
+    },
+    {
+        "FID": 75,
+        "AccessName": "The Peoples' Crossing",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01404070214968,
+        "Longitude": -105.29533451484545
+    },
+    {
+        "FID": 76,
+        "AccessName": "Dickens Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15378926661445,
+        "Longitude": -105.09406550040478
+    },
+    {
+        "FID": 77,
+        "AccessName": "Four Pines at 17th St",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99614240607,
+        "Longitude": -105.27113911670982
+    },
+    {
+        "FID": 78,
+        "AccessName": "Buchanan Pass Wilderness Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.137170999846646,
+        "Longitude": -105.58600000001275
+    },
+    {
+        "FID": 79,
+        "AccessName": "Dakota Ridge Trail at Hawthorne",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.03550376655279,
+        "Longitude": -105.29402859528938
+    },
+    {
+        "FID": 80,
+        "AccessName": "Baseline at 7th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00002116263433,
+        "Longitude": -105.28533543389325
+    },
+    {
+        "FID": 81,
+        "AccessName": "Middle Saint Vrain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.129946999923874,
+        "Longitude": -105.52400000027488
+    },
+    {
+        "FID": 82,
+        "AccessName": "Fairgrounds Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15991402260581,
+        "Longitude": -105.12797462425273
+    },
+    {
+        "FID": 83,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92094042186105,
+        "Longitude": -105.10868022410146
+    },
+    {
+        "FID": 84,
+        "AccessName": "Doe Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95942755153421,
+        "Longitude": -105.48849476420315
+    },
+    {
+        "FID": 85,
+        "AccessName": "Flagstaff Summit East",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00419417153385,
+        "Longitude": -105.3034987778467
+    },
+    {
+        "FID": 86,
+        "AccessName": "North Inlet",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.256831831512436,
+        "Longitude": -105.81440807768908
+    },
+    {
+        "FID": 87,
+        "AccessName": "Wonderland Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04664638233014,
+        "Longitude": -105.28970143032872
+    },
+    {
+        "FID": 88,
+        "AccessName": "S. 2nd Ave. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21430322395929,
+        "Longitude": -105.26365776825894
+    },
+    {
+        "FID": 89,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.944697783123345,
+        "Longitude": -105.02295609320583
+    },
+    {
+        "FID": 90,
+        "AccessName": "Shanahan Ridge at Galena Way",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96476028220233,
+        "Longitude": -105.25380029413485
+    },
+    {
+        "FID": 91,
+        "AccessName": "Oerman-Roche",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.948053699141035,
+        "Longitude": -105.16516887002672
+    },
+    {
+        "FID": 92,
+        "AccessName": "North Pool",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.93838897291747,
+        "Longitude": -105.15511402345832
+    },
+    {
+        "FID": 93,
+        "AccessName": "West Magnolia Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9504989998347,
+        "Longitude": -105.50440100027538
+    },
+    {
+        "FID": 94,
+        "AccessName": "Wonderland Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.05086921118568,
+        "Longitude": -105.28243001905805
+    },
+    {
+        "FID": 95,
+        "AccessName": "East Boulder Trail at Boulderado and Durham",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0654153789709,
+        "Longitude": -105.17375846375542
+    },
+    {
+        "FID": 96,
+        "AccessName": "Chapman Drive",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00885626796029,
+        "Longitude": -105.32532405105523
+    },
+    {
+        "FID": 97,
+        "AccessName": "Coal Creek Trailhead @ LAWSC",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.029021757583436,
+        "Longitude": -105.04662060766981
+    },
+    {
+        "FID": 98,
+        "AccessName": "Foothills",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.07048902714993,
+        "Longitude": -105.28246844179937
+    },
+    {
+        "FID": 99,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.94728132222002,
+        "Longitude": -105.01381856578136
+    },
+    {
+        "FID": 100,
+        "AccessName": "Isaac Walton Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.16163061886777,
+        "Longitude": -105.12045308697266
+    },
+    {
+        "FID": 101,
+        "AccessName": "Rock Cut",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.41243198139121,
+        "Longitude": -105.73322471945053
+    },
+    {
+        "FID": 102,
+        "AccessName": "Beaver Ponds",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.38724109312068,
+        "Longitude": -105.84763861147644
+    },
+    {
+        "FID": 103,
+        "AccessName": "Ron Stewart Preserve at Rabbit Mountain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.24648644365503,
+        "Longitude": -105.22386010867183
+    },
+    {
+        "FID": 104,
+        "AccessName": "Foothills at Locust",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.053934038557706,
+        "Longitude": -105.28957216635258
+    },
+    {
+        "FID": 105,
+        "AccessName": "Private Property Owner Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22037096529167,
+        "Longitude": -105.25673756143343
+    },
+    {
+        "FID": 106,
+        "AccessName": "Cherryvale",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98277337231401,
+        "Longitude": -105.21456689871705
+    },
+    {
+        "FID": 107,
+        "AccessName": "Rock Creek East Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.97888564639129,
+        "Longitude": -105.07147842798751
+    },
+    {
+        "FID": 108,
+        "AccessName": "South Boulder Creek at North of S Boulder Rd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98623331445918,
+        "Longitude": -105.21657918154735
+    },
+    {
+        "FID": 109,
+        "AccessName": "East Boulder Trail at Valmont",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04017444677144,
+        "Longitude": -105.14594036758976
+    },
+    {
+        "FID": 110,
+        "AccessName": "Rough N Ready Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.19567127461597,
+        "Longitude": -105.08992646152922
+    },
+    {
+        "FID": 111,
+        "AccessName": "Chapin Creek",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.43486941974543,
+        "Longitude": -105.73031747205215
+    },
+    {
+        "FID": 112,
+        "AccessName": "Table Mesa Trail at North Vassar",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98555826219448,
+        "Longitude": -105.26967093536229
+    },
+    {
+        "FID": 113,
+        "AccessName": "Thomas Reservoir Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.03360240580565,
+        "Longitude": -105.07351394214938
+    },
+    {
+        "FID": 114,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95202450351858,
+        "Longitude": -105.01580686179695
+    },
+    {
+        "FID": 115,
+        "AccessName": "Crown Rock",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00178788926366,
+        "Longitude": -105.29707972494853
+    },
+    {
+        "FID": 116,
+        "AccessName": "Bohn Park Trail - 2nd Ave. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22004795699483,
+        "Longitude": -105.26535635579874
+    },
+    {
+        "FID": 117,
+        "AccessName": "Marshall Mesa",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95309131187295,
+        "Longitude": -105.23141990070829
+    },
+    {
+        "FID": 118,
+        "AccessName": "County Line Rd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.148772928137824,
+        "Longitude": -105.05519871284433
+    },
+    {
+        "FID": 119,
+        "AccessName": "Lumpy Ridge",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.396107172015185,
+        "Longitude": -105.51229176849344
+    },
+    {
+        "FID": 120,
+        "AccessName": "Baseline Trail at Gregory Canyon",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.999173303169755,
+        "Longitude": -105.29052560226253
+    },
+    {
+        "FID": 121,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96490445212743,
+        "Longitude": -105.50330941964442
+    },
+    {
+        "FID": 122,
+        "AccessName": "Monarch Road Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.09403420200541,
+        "Longitude": -105.17336755467302
+    },
+    {
+        "FID": 123,
+        "AccessName": "Upper Beaver Meadows",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.36992812265451,
+        "Longitude": -105.59285368928639
+    },
+    {
+        "FID": 124,
+        "AccessName": "Wally Toevs Pond Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04570238837556,
+        "Longitude": -105.18050327901328
+    },
+    {
+        "FID": 125,
+        "AccessName": "Caribou Ranch Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.982345382050646,
+        "Longitude": -105.51919293822144
+    },
+    {
+        "FID": 126,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96879648594588,
+        "Longitude": -105.14146716261503
+    },
+    {
+        "FID": 127,
+        "AccessName": "Lawn Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.40720111639804,
+        "Longitude": -105.62635434737803
+    },
+    {
+        "FID": 128,
+        "AccessName": "Brainard Gateway Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.080004999999296,
+        "Longitude": -105.53266700003499
+    },
+    {
+        "FID": 129,
+        "AccessName": "N 119th St",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15408726625339,
+        "Longitude": -105.07438124309832
+    },
+    {
+        "FID": 130,
+        "AccessName": "Aquarius Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.97323091298448,
+        "Longitude": -105.11500615673899
+    },
+    {
+        "FID": 131,
+        "AccessName": "Kanemoto Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.14510412901218,
+        "Longitude": -105.10681091892845
+    },
+    {
+        "FID": 132,
+        "AccessName": "Realization Point",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99734281889959,
+        "Longitude": -105.30908299131704
+    },
+    {
+        "FID": 133,
+        "AccessName": "Anne U. White Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.059404678509615,
+        "Longitude": -105.31941973101823
+    },
+    {
+        "FID": 134,
+        "AccessName": "Four Mile Creek",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.06272362613677,
+        "Longitude": -105.2889588559654
+    },
+    {
+        "FID": 135,
+        "AccessName": "Eaton Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.06332366967447,
+        "Longitude": -105.20072512771165
+    },
+    {
+        "FID": 136,
+        "AccessName": "Centennial",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02007930330742,
+        "Longitude": -105.29784948143401
+    },
+    {
+        "FID": 137,
+        "AccessName": "Kawuneeche Visitor Center",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.26674561641709,
+        "Longitude": -105.83305548512156
+    },
+    {
+        "FID": 138,
+        "AccessName": "Boulder Falls",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00464800903908,
+        "Longitude": -105.40629367044329
+    },
+    {
+        "FID": 139,
+        "AccessName": "Green Mt. West Ridge",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98339221319689,
+        "Longitude": -105.32326461116412
+    },
+    {
+        "FID": 140,
+        "AccessName": "Longs Peak",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.27205764950998,
+        "Longitude": -105.55662184820217
+    },
+    {
+        "FID": 141,
+        "AccessName": "Mitchell Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08259200000287,
+        "Longitude": -105.58079700010792
+    },
+    {
+        "FID": 142,
+        "AccessName": "North Picnic Area Parking",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.93064151107482,
+        "Longitude": -105.29411866127806
+    },
+    {
+        "FID": 143,
+        "AccessName": "Purple Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.94283317179027,
+        "Longitude": -105.16003201756787
+    },
+    {
+        "FID": 144,
+        "AccessName": "Roger's Grovr Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15986950971219,
+        "Longitude": -105.12793446596628
+    },
+    {
+        "FID": 145,
+        "AccessName": "Bowen-Baker",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.35481666912304,
+        "Longitude": -105.8575125822624
+    },
+    {
+        "FID": 146,
+        "AccessName": "Red Rock Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08012400018482,
+        "Longitude": -105.53415500001431
+    },
+    {
+        "FID": 147,
+        "AccessName": "Finch Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.20834983889921,
+        "Longitude": -105.56094166853707
+    },
+    {
+        "FID": 148,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92777426690249,
+        "Longitude": -105.00898186112018
+    },
+    {
+        "FID": 149,
+        "AccessName": "Endovalley",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.41350958040959,
+        "Longitude": -105.65676661279421
+    },
+    {
+        "FID": 150,
+        "AccessName": "Coal Creek Regional",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95321232192318,
+        "Longitude": -105.16579070632427
+    },
+    {
+        "FID": 151,
+        "AccessName": "Sandbeach Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21975149470131,
+        "Longitude": -105.53462412810346
+    },
+    {
+        "FID": 152,
+        "AccessName": "Clark Centennial Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.17806525513714,
+        "Longitude": -105.08801551674782
+    },
+    {
+        "FID": 153,
+        "AccessName": "South Boulder Creek at Marshall Rd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.967964227286565,
+        "Longitude": -105.23660064036034
+    },
+    {
+        "FID": 154,
+        "AccessName": "Harney-Lastoka Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98295558424997,
+        "Longitude": -105.12729077545451
+    },
+    {
+        "FID": 155,
+        "AccessName": "Table Mesa Trail at South Vassar",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98431691441007,
+        "Longitude": -105.26739610461884
+    },
+    {
+        "FID": 156,
+        "AccessName": "South Boulder Creek at US 36 - North",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.980603539989,
+        "Longitude": -105.22139167571332
+    },
+    {
+        "FID": 157,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9987872985619,
+        "Longitude": -105.03774827549363
+    },
+    {
+        "FID": 158,
+        "AccessName": "Osprey Ln. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.220008102582774,
+        "Longitude": -105.25701656917751
+    },
+    {
+        "FID": 159,
+        "AccessName": "Left Hand",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.10482788898173,
+        "Longitude": -105.26577206197625
+    },
+    {
+        "FID": 160,
+        "AccessName": "Sawhill Access Northeast",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04364749634519,
+        "Longitude": -105.18804777723201
+    },
+    {
+        "FID": 161,
+        "AccessName": "Estes Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21530994182187,
+        "Longitude": -105.26201733585398
+    },
+    {
+        "FID": 162,
+        "AccessName": "Teller Farm North",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.039767406793196,
+        "Longitude": -105.14254259513046
+    },
+    {
+        "FID": 163,
+        "AccessName": "Baseline Trail at Bluebell Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9997599895502,
+        "Longitude": -105.28300300497044
+    },
+    {
+        "FID": 164,
+        "AccessName": "Greenbriar",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.964345941036264,
+        "Longitude": -105.25070883011946
+    },
+    {
+        "FID": 165,
+        "AccessName": "McClintock at Bellevue",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.997887903895574,
+        "Longitude": -105.27772492746743
+    },
+    {
+        "FID": 166,
+        "AccessName": "Coalton Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92875369456065,
+        "Longitude": -105.16664071470399
+    },
+    {
+        "FID": 167,
+        "AccessName": "Abandoned Beaver Ponds",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.399089533381684,
+        "Longitude": -105.64113452368207
+    },
+    {
+        "FID": 168,
+        "AccessName": "Table Mesa Water Tank",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.981350592461816,
+        "Longitude": -105.28037861459713
+    },
+    {
+        "FID": 169,
+        "AccessName": "Dodd Reservoir Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.101401589765274,
+        "Longitude": -105.19157791016023
+    },
+    {
+        "FID": 170,
+        "AccessName": "Enchanted Mesa",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.997308133433435,
+        "Longitude": -105.28021167437967
+    },
+    {
+        "FID": 171,
+        "AccessName": "Bummer's Rock Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01352704383202,
+        "Longitude": -105.34348303458631
+    },
+    {
+        "FID": 172,
+        "AccessName": "Martin Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98849040941697,
+        "Longitude": -105.24961076185551
+    },
+    {
+        "FID": 173,
+        "AccessName": "Valmont Bike Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.031403707216036,
+        "Longitude": -105.23424069963363
+    },
+    {
+        "FID": 174,
+        "AccessName": "Lost Gulch Overlook",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.991170573158094,
+        "Longitude": -105.31943751316929
+    },
+    {
+        "FID": 175,
+        "AccessName": "Legion Park Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01590678663289,
+        "Longitude": -105.18940171982489
+    },
+    {
+        "FID": 176,
+        "AccessName": "Hall Ranch Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21059874605824,
+        "Longitude": -105.28828029105766
+    },
+    {
+        "FID": 177,
+        "AccessName": "Agricultural Heritage Center Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.20260904243584,
+        "Longitude": -105.15784204707606
+    },
+    {
+        "FID": 178,
+        "AccessName": "Glacier Gorge",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.31077404102381,
+        "Longitude": -105.6399616302465
+    },
+    {
+        "FID": 179,
+        "AccessName": "Pella West Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.187319150448864,
+        "Longitude": -105.17826078672176
+    },
+    {
+        "FID": 180,
+        "AccessName": "Raymond Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21486980051153,
+        "Longitude": -105.26122709239011
+    },
+    {
+        "FID": 181,
+        "AccessName": "Bitterbrush Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21201397760918,
+        "Longitude": -105.2893764953174
+    },
+    {
+        "FID": 182,
+        "AccessName": "Wild Basin",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.20801882885732,
+        "Longitude": -105.56657353942985
+    },
+    {
+        "FID": 183,
+        "AccessName": "NCAR",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.97871447321999,
+        "Longitude": -105.27547880328723
+    },
+    {
+        "FID": 184,
+        "AccessName": "Wildewood Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.956664722946044,
+        "Longitude": -105.49179193523207
+    },
+    {
+        "FID": 185,
+        "AccessName": "LaVerne Johnson Park Perimeter Trail - Parking Lot Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22327676006247,
+        "Longitude": -105.27397464800583
+    },
+    {
+        "FID": 186,
+        "AccessName": "Welch Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21680897612242,
+        "Longitude": -105.26415390150214
+    },
+    {
+        "FID": 187,
+        "AccessName": "Dakota Ridge Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.065517422307316,
+        "Longitude": -105.28831359789343
+    },
+    {
+        "FID": 188,
+        "AccessName": "Martin Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.987930897589685,
+        "Longitude": -105.2505984065098
+    },
+    {
+        "FID": 189,
+        "AccessName": "Coal Creek Trailhead @ Erie Pkwy",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04419480626167,
+        "Longitude": -105.04250303403796
+    },
+    {
+        "FID": 190,
+        "AccessName": "Chautauqua",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.998882401059774,
+        "Longitude": -105.2827475744093
+    },
+    {
+        "FID": 191,
+        "AccessName": "Gregory Canyon",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9975177984876,
+        "Longitude": -105.29264803022475
+    },
+    {
+        "FID": 192,
+        "AccessName": "Rainbow Lakes Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00971300001656,
+        "Longitude": -105.56900000040336
+    },
+    {
+        "FID": 193,
+        "AccessName": "Valmont City Park South",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02866437648718,
+        "Longitude": -105.23471635128834
+    },
+    {
+        "FID": 194,
+        "AccessName": "Heil Valley Ranch Main Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.14929906309677,
+        "Longitude": -105.30009059570988
+    },
+    {
+        "FID": 195,
+        "AccessName": "West Alluvial Fan",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.410809855935504,
+        "Longitude": -105.63748349727956
+    },
+    {
+        "FID": 196,
+        "AccessName": "Holly Berry",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98612367419831,
+        "Longitude": -105.27223164416512
+    },
+    {
+        "FID": 197,
+        "AccessName": "East Alluvial Fan",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.409949702902985,
+        "Longitude": -105.63195532520821
+    },
+    {
+        "FID": 198,
+        "AccessName": "Gerald Stazio Ballfields South",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02301379521266,
+        "Longitude": -105.21179548557276
+    },
+    {
+        "FID": 199,
+        "AccessName": "Pella East Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.183794680952545,
+        "Longitude": -105.17651157372579
+    },
+    {
+        "FID": 200,
+        "AccessName": "Fourmile Link Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.03836072172662,
+        "Longitude": -105.35069527832079
+    },
+    {
+        "FID": 201,
+        "AccessName": "Coot Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08588835954871,
+        "Longitude": -105.20721961573749
+    },
+    {
+        "FID": 202,
+        "AccessName": "Eagle",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08030221104685,
+        "Longitude": -105.23581630152283
+    },
+    {
+        "FID": 203,
+        "AccessName": "Boulder Reservoir Regional Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.07145570734109,
+        "Longitude": -105.23275780028847
+    },
+    {
+        "FID": 204,
+        "AccessName": "Baseline Connector West Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00001574827609,
+        "Longitude": -105.28736490508821
+    },
+    {
+        "FID": 205,
+        "AccessName": "2nd Ave. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.217013269648454,
+        "Longitude": -105.26391163844644
+    },
+    {
+        "FID": 206,
+        "AccessName": "Niwot Loop Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08918536906457,
+        "Longitude": -105.16847846565436
+    },
+    {
+        "FID": 207,
+        "AccessName": "Timber Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.39951726269356,
+        "Longitude": -105.8476410477075
+    },
+    {
+        "FID": 208,
+        "AccessName": "Erie Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01939102259109,
+        "Longitude": -105.1024204389099
+    },
+    {
+        "FID": 209,
+        "AccessName": "Baseline Picnic Area",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0003501515319,
+        "Longitude": -105.30223676524676
+    },
+    {
+        "FID": 210,
+        "AccessName": "South Boulder Creek West",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96025895703195,
+        "Longitude": -105.23681086769638
+    },
+    {
+        "FID": 211,
+        "AccessName": "CR S. 67 - Fowler",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.93172395331704,
+        "Longitude": -105.2704985855729
+    },
+    {
+        "FID": 212,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.91717487960601,
+        "Longitude": -105.03252421638364
+    },
+    {
+        "FID": 213,
+        "AccessName": "LaVerne Johnson Parking Lot",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.223623338687034,
+        "Longitude": -105.27358798346314
+    },
+    {
+        "FID": 214,
+        "AccessName": "Sawhill Ponds",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.03954151680283,
+        "Longitude": -105.18507467883173
+    },
+    {
+        "FID": 215,
+        "AccessName": "Cub Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.356189665662,
+        "Longitude": -105.61561820771836
+    },
+    {
+        "FID": 216,
+        "AccessName": "Golden Ponds",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.16942757899802,
+        "Longitude": -105.13733957815768
+    },
+    {
+        "FID": 217,
+        "AccessName": "Shanahan Ridge at Hardscrabble",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96523850401383,
+        "Longitude": -105.25864775073167
+    },
+    {
+        "FID": 218,
+        "AccessName": "Ranger Trail",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.996651766057546,
+        "Longitude": -105.30923303691894
+    },
+    {
+        "FID": 219,
+        "AccessName": "Fourth of July",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99505474744662,
+        "Longitude": -105.63442971848863
+    },
+    {
+        "FID": 220,
+        "AccessName": "Saint Vrain Mountain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.17423499983585,
+        "Longitude": -105.53300000012091
+    },
+    {
+        "FID": 221,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.978528682862624,
+        "Longitude": -105.16489791208589
+    },
+    {
+        "FID": 222,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.944697783123345,
+        "Longitude": -105.02295609320583
+    },
+    {
+        "FID": 223,
+        "AccessName": "Mud Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.979267318058746,
+        "Longitude": -105.50802416632767
+    },
+    {
+        "FID": 224,
+        "AccessName": "Doudy Draw",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.938250928127616,
+        "Longitude": -105.2566596667185
+    },
+    {
+        "FID": 225,
+        "AccessName": "Bohn Park Trail - 4th Ave. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21970048483228,
+        "Longitude": -105.26990829092159
+    },
+    {
+        "FID": 226,
+        "AccessName": "Wild Basin Winter Parking",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.2108246192355,
+        "Longitude": -105.55141858329435
+    },
+    {
+        "FID": 227,
+        "AccessName": "Dickens Park East",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15405308553291,
+        "Longitude": -105.0959086205856
+    },
+    {
+        "FID": 228,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.979509201240994,
+        "Longitude": -105.03020312060642
+    },
+    {
+        "FID": 229,
+        "AccessName": "Dickens Park Wast",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.154023339510545,
+        "Longitude": -105.1001288644679
+    },
+    {
+        "FID": 230,
+        "AccessName": "Sprague Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.32086349480026,
+        "Longitude": -105.60813820135051
+    },
+    {
+        "FID": 231,
+        "AccessName": "Howard Heuston Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.033166797410544,
+        "Longitude": -105.24903461656827
+    },
+    {
+        "FID": 232,
+        "AccessName": "Fowler",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.929562474654446,
+        "Longitude": -105.29024931102387
+    },
+    {
+        "FID": 233,
+        "AccessName": "Cottonwood",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.039982529367485,
+        "Longitude": -105.2369800501088
+    },
+    {
+        "FID": 234,
+        "AccessName": "Mayhoffer Singletree Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.948992613855,
+        "Longitude": -105.16944210013773
+    },
+    {
+        "FID": 235,
+        "AccessName": "Baseline at 6th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00002073116475,
+        "Longitude": -105.28655970916644
+    },
+    {
+        "FID": 236,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9575782597151,
+        "Longitude": -105.00961395348332
+    },
+    {
+        "FID": 237,
+        "AccessName": "Corral Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.13538390516893,
+        "Longitude": -105.29816700534423
+    },
+    {
+        "FID": 238,
+        "AccessName": "Rock Creek Regional",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.930056269579,
+        "Longitude": -105.15058540770193
+    },
+    {
+        "FID": 239,
+        "AccessName": "Joder at Old Stage Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.10899928519959,
+        "Longitude": -105.30273148903328
+    },
+    {
+        "FID": 240,
+        "AccessName": "Walker Ranch Loop Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95122955165517,
+        "Longitude": -105.33768568144173
+    },
+    {
+        "FID": 241,
+        "AccessName": "McClintock at 12th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99815618259346,
+        "Longitude": -105.27934515227008
+    },
+    {
+        "FID": 242,
+        "AccessName": "Timber Creek Campground",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.379768485318884,
+        "Longitude": -105.8502979103817
+    },
+    {
+        "FID": 243,
+        "AccessName": "Betasso Trailhead East",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01576763725626,
+        "Longitude": -105.34098073783652
+    },
+    {
+        "FID": 244,
+        "AccessName": "Sundial Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.15762654440778,
+        "Longitude": -105.10758881055713
+    },
+    {
+        "FID": 245,
+        "AccessName": "South Mesa",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.938601106156355,
+        "Longitude": -105.25806766812852
+    },
+    {
+        "FID": 246,
+        "AccessName": "South Boulder Creek at South of S Boulder Rd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.985671616708025,
+        "Longitude": -105.22138392235411
+    },
+    {
+        "FID": 247,
+        "AccessName": "Stone Canyon Dr. - SW Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21982414696685,
+        "Longitude": -105.25600668583006
+    },
+    {
+        "FID": 248,
+        "AccessName": "Meyers Gulch Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.957945378942455,
+        "Longitude": -105.33860924477524
+    },
+    {
+        "FID": 249,
+        "AccessName": "Beaver Creek Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0836479997836,
+        "Longitude": -105.5809999995992
+    },
+    {
+        "FID": 250,
+        "AccessName": "Pleasant View Fields Sports Complex",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04298245408727,
+        "Longitude": -105.24516406167324
+    },
+    {
+        "FID": 251,
+        "AccessName": "Bear Mountain Drive at Wildwood Ln",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.97452206598543,
+        "Longitude": -105.26717504629542
+    },
+    {
+        "FID": 252,
+        "AccessName": "Onahu Creek",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.31578797647079,
+        "Longitude": -105.84362568618532
+    },
+    {
+        "FID": 253,
+        "AccessName": "Betasso Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01574518399463,
+        "Longitude": -105.34415029060294
+    },
+    {
+        "FID": 254,
+        "AccessName": "Sawhill Access North",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04361670346428,
+        "Longitude": -105.19249616265377
+    },
+    {
+        "FID": 255,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9987872985619,
+        "Longitude": -105.03774827549363
+    },
+    {
+        "FID": 256,
+        "AccessName": "Twin Lakes Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.062998580087324,
+        "Longitude": -105.20076151307391
+    },
+    {
+        "FID": 257,
+        "AccessName": "Hessie Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95156799981231,
+        "Longitude": -105.59499999985877
+    },
+    {
+        "FID": 258,
+        "AccessName": "Coal Creek Trailhead @ Reliance Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.05613455335836,
+        "Longitude": -105.04676323947568
+    },
+    {
+        "FID": 259,
+        "AccessName": "Elephant Buttress",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0134711785225,
+        "Longitude": -105.30990200242957
+    },
+    {
+        "FID": 260,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.992800905831494,
+        "Longitude": -105.06092623545028
+    },
+    {
+        "FID": 261,
+        "AccessName": "Fall River Pass",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.441531094265436,
+        "Longitude": -105.75376723256934
+    },
+    {
+        "FID": 262,
+        "AccessName": "Panorama Point",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.005970983539804,
+        "Longitude": -105.2928949555368
+    },
+    {
+        "FID": 263,
+        "AccessName": "Boulder Reservoir 55th Street",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.08721064154651,
+        "Longitude": -105.22628227030837
+    },
+    {
+        "FID": 264,
+        "AccessName": "Boulder Valley Ranch",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0798344130689,
+        "Longitude": -105.26280928791351
+    },
+    {
+        "FID": 265,
+        "AccessName": "Fern Lake Winter Parking",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.35714407004374,
+        "Longitude": -105.61925756770026
+    },
+    {
+        "FID": 266,
+        "AccessName": "Skunk Canyon Trail at Deer Valley and Holly Berry",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.989289504974614,
+        "Longitude": -105.27161248035553
+    },
+    {
+        "FID": 267,
+        "AccessName": "Lion's Lair at Sunshine Hairpin",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.033625696446514,
+        "Longitude": -105.31581444233842
+    },
+    {
+        "FID": 268,
+        "AccessName": "South Pool",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92138761563798,
+        "Longitude": -105.15529678480455
+    },
+    {
+        "FID": 269,
+        "AccessName": "Sombrero Marsh",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.012004170419246,
+        "Longitude": -105.20273208263397
+    },
+    {
+        "FID": 270,
+        "AccessName": "Stearns Lake Trailhead at Carolyn Holmberg Preserve",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.94694119381363,
+        "Longitude": -105.10912760577423
+    },
+    {
+        "FID": 271,
+        "AccessName": "Bowen-Gulch Connector",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.328182696916635,
+        "Longitude": -105.85687331954665
+    },
+    {
+        "FID": 272,
+        "AccessName": "Flagg Park Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.993059456574976,
+        "Longitude": -105.06098651240583
+    },
+    {
+        "FID": 273,
+        "AccessName": "Park and Ride",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.329749920720005,
+        "Longitude": -105.60131532429108
+    },
+    {
+        "FID": 274,
+        "AccessName": "Goodhue Ditch Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.965354907170315,
+        "Longitude": -105.14714908044894
+    },
+    {
+        "FID": 275,
+        "AccessName": "Joder Ranch",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.11015389332774,
+        "Longitude": -105.2826166728044
+    },
+    {
+        "FID": 276,
+        "AccessName": "Black Bear Hole",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22083340301605,
+        "Longitude": -105.26334213799733
+    },
+    {
+        "FID": 277,
+        "AccessName": "Cottontail Trail at Lookout and 75th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0727722953117,
+        "Longitude": -105.17869963529763
+    },
+    {
+        "FID": 278,
+        "AccessName": "Coalton and Hwy 128",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.91423578343906,
+        "Longitude": -105.20625447208444
+    },
+    {
+        "FID": 279,
+        "AccessName": "Moraine Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.35394729505696,
+        "Longitude": -105.58342673096558
+    },
+    {
+        "FID": 280,
+        "AccessName": "Greenbelt Plateau",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.9286382596561,
+        "Longitude": -105.23342042009993
+    },
+    {
+        "FID": 281,
+        "AccessName": "East Boulder Trail at Willow Glenn",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.01822735847974,
+        "Longitude": -105.16430542464697
+    },
+    {
+        "FID": 282,
+        "AccessName": "Left Hand Creek Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.136994988603135,
+        "Longitude": -105.11614412906617
+    },
+    {
+        "FID": 283,
+        "AccessName": "Cragmoor",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96865915518026,
+        "Longitude": -105.26325587008566
+    },
+    {
+        "FID": 284,
+        "AccessName": "Moraine Park Discovery Center",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.35839659508458,
+        "Longitude": -105.58452890632704
+    },
+    {
+        "FID": 285,
+        "AccessName": "Upper Flagstaff Trail",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.00341204312346,
+        "Longitude": -105.30495544458893
+    },
+    {
+        "FID": 286,
+        "AccessName": "Bobolink",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99989585329929,
+        "Longitude": -105.21484887179992
+    },
+    {
+        "FID": 287,
+        "AccessName": "Sandstone Park Parking Lot",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22358832602439,
+        "Longitude": -105.26870281828565
+    },
+    {
+        "FID": 288,
+        "AccessName": "East Shore",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.24036827066891,
+        "Longitude": -105.8258671293871
+    },
+    {
+        "FID": 289,
+        "AccessName": "Green Mountain",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.307354020995,
+        "Longitude": -105.84137721201232
+    },
+    {
+        "FID": 290,
+        "AccessName": "Kohler Mesa Trail Road at NIST Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.98923475889751,
+        "Longitude": -105.2773520305048
+    },
+    {
+        "FID": 291,
+        "AccessName": "Baseline at 8th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0000175760005,
+        "Longitude": -105.28415122078681
+    },
+    {
+        "FID": 292,
+        "AccessName": "Cottontail at 71st",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.07601173451395,
+        "Longitude": -105.18812591628871
+    },
+    {
+        "FID": 293,
+        "AccessName": "East Boulder Trail at Boulderado and Cambridge",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.06544822584721,
+        "Longitude": -105.16906821233331
+    },
+    {
+        "FID": 294,
+        "AccessName": "2nd Ave. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.215849332547656,
+        "Longitude": -105.26090761015259
+    },
+    {
+        "FID": 295,
+        "AccessName": "Rogers Grove Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.163359194409296,
+        "Longitude": -105.12989788403837
+    },
+    {
+        "FID": 296,
+        "AccessName": "Sawhill Access East",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04190552005396,
+        "Longitude": -105.18654523891813
+    },
+    {
+        "FID": 297,
+        "AccessName": "Bierstadt Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.32052853569945,
+        "Longitude": -105.62351057583592
+    },
+    {
+        "FID": 298,
+        "AccessName": "Mt SanitasTrail at Sunshine Road",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.02063463528075,
+        "Longitude": -105.29626965297139
+    },
+    {
+        "FID": 299,
+        "AccessName": "Antelope Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.22765944274321,
+        "Longitude": -105.29618627853324
+    },
+    {
+        "FID": 300,
+        "AccessName": "Hollowell Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.341510806358336,
+        "Longitude": -105.60526252344613
+    },
+    {
+        "FID": 301,
+        "AccessName": "Wonderland Lake at Utica",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.05223750263323,
+        "Longitude": -105.28769191161454
+    },
+    {
+        "FID": 302,
+        "AccessName": "Holzwarth Historic Site",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.37272180174143,
+        "Longitude": -105.854578839953
+    },
+    {
+        "FID": 303,
+        "AccessName": "Cottonwood at Jay Rd",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.05097646245403,
+        "Longitude": -105.2301456773087
+    },
+    {
+        "FID": 304,
+        "AccessName": "Flatirons Vista",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.92396845449061,
+        "Longitude": -105.23504481578041
+    },
+    {
+        "FID": 305,
+        "AccessName": "Viewpoint",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.0118597902508,
+        "Longitude": -105.29367751840498
+    },
+    {
+        "FID": 306,
+        "AccessName": "Wonderland Lake at Poplar",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04833974220407,
+        "Longitude": -105.29223539179395
+    },
+    {
+        "FID": 307,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.99282330125919,
+        "Longitude": -105.06093600912055
+    },
+    {
+        "FID": 308,
+        "AccessName": "Flagstaff Trail at Gregory Canyon",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.999394013587896,
+        "Longitude": -105.29086136826125
+    },
+    {
+        "FID": 309,
+        "AccessName": "Bohn Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.213783186431236,
+        "Longitude": -105.2629947972062
+    },
+    {
+        "FID": 310,
+        "AccessName": "Endovalley",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.40491623423211,
+        "Longitude": -105.62485437465257
+    },
+    {
+        "FID": 311,
+        "AccessName": "Noland Ct. Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.214727546809335,
+        "Longitude": -105.26259119043726
+    },
+    {
+        "FID": 312,
+        "AccessName": "South 66th",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95900363044546,
+        "Longitude": -105.19947122689872
+    },
+    {
+        "FID": 313,
+        "AccessName": "Bald Mountain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.04767261257084,
+        "Longitude": -105.34148728075725
+    },
+    {
+        "FID": 314,
+        "AccessName": "Bierstadt Lake/Storm Pass",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.32012074137692,
+        "Longitude": -105.62003279672248
+    },
+    {
+        "FID": 315,
+        "AccessName": "North Fork Shanahan at Lehigh",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.96729339184929,
+        "Longitude": -105.2586538350211
+    },
+    {
+        "FID": 316,
+        "AccessName": "Bear Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.3119386167709,
+        "Longitude": -105.64571618675262
+    },
+    {
+        "FID": 317,
+        "AccessName": "Dakota Ridge Trail at 4th and Valley View",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.024531472114596,
+        "Longitude": -105.29213693194724
+    },
+    {
+        "FID": 318,
+        "AccessName": "Long Lake Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.07808299973448,
+        "Longitude": -105.58342099971408
+    },
+    {
+        "FID": 319,
+        "AccessName": "Beaver Meadows",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.37291317699888,
+        "Longitude": -105.61376686885099
+    },
+    {
+        "FID": 320,
+        "AccessName": "Eagle Parking Coffee",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.07638481118388,
+        "Longitude": -105.27755747161703
+    },
+    {
+        "FID": 321,
+        "AccessName": "South Saint Vrain Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.10551999992891,
+        "Longitude": -105.48799999999244
+    },
+    {
+        "FID": 322,
+        "AccessName": "Rock Creek Regional",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.930112030894506,
+        "Longitude": -105.1591590949619
+    },
+    {
+        "FID": 323,
+        "AccessName": "McIntosh Lake",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.196972070654944,
+        "Longitude": -105.14438219301707
+    },
+    {
+        "FID": 324,
+        "AccessName": "Willow Creek Park",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.14881724986438,
+        "Longitude": -105.14069065439188
+    },
+    {
+        "FID": 325,
+        "AccessName": "BRT",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.95748195667761,
+        "Longitude": -105.16750596659577
+    },
+    {
+        "FID": 326,
+        "AccessName": "",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 39.97808069983423,
+        "Longitude": -105.16640030217775
+    },
+    {
+        "FID": 327,
+        "AccessName": "Bohn Park Trail - Highway Access",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.21943153105134,
+        "Longitude": -105.27171670199648
+    },
+    {
+        "FID": 328,
+        "AccessName": "Cottonwood Marsh Pond Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.044088156380205,
+        "Longitude": -105.18401868406241
+    },
+    {
+        "FID": 329,
+        "AccessName": "Dakota Ridge Trail at 3rd and Forest",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.03287524849026,
+        "Longitude": -105.29274911584706
+    },
+    {
+        "FID": 330,
+        "AccessName": "Lefthand Valley Grange Trailhead",
+        "Address": "",
+        "BikeTrail": "",
+        "FISHING": "",
+        "ADAtrail": "",
+        "Latitude": 40.10315992083185,
+        "Longitude": -105.15981927674565
+    }
+]

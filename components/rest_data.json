@@ -1,0 +1,372 @@
+[
+    {
+        "FID": 0,
+        "AccessName": "Flagstaff Summit West",
+        "Address": "621 Flagstaff Summit Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.021625944802835,
+        "Longitude": -105.15876668120139
+    },
+    {
+        "FID": 1,
+        "AccessName": "Flagstaff Summit East",
+        "Address": "790 Flagstaff Summit Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Difficult",
+        "Latitude": 39.928726513244385,
+        "Longitude": -105.16668020464388
+    },
+    {
+        "FID": 2,
+        "AccessName": "East Boulder Trail at White Rocks",
+        "Address": "4705 95th St",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.22103954392823,
+        "Longitude": -105.26362577296347
+    },
+    {
+        "FID": 3,
+        "AccessName": "Buckingham Park",
+        "Address": "2500 Left-hand Canyon Dr",
+        "BikeTrail": "No",
+        "FISHING": "Yes",
+        "ADAtrail": "Difficult",
+        "Latitude": 39.973826063192156,
+        "Longitude": -105.25018048778172
+    },
+    {
+        "FID": 4,
+        "AccessName": "Settler's Park",
+        "Address": "101 Pearl St",
+        "BikeTrail": "No",
+        "FISHING": "Yes",
+        "ADAtrail": "Easy",
+        "Latitude": 39.93137377798527,
+        "Longitude": -105.03546282127363
+    },
+    {
+        "FID": 5,
+        "AccessName": "Centennial",
+        "Address": "301 Sunshine Canyon Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Difficult",
+        "Latitude": 40.010348820661655,
+        "Longitude": -105.2900469412516
+    },
+    {
+        "FID": 6,
+        "AccessName": "Teller Farm South",
+        "Address": "8331 Arapahoe",
+        "BikeTrail": "Yes",
+        "FISHING": "Yes",
+        "ADAtrail": "Easy",
+        "Latitude": 40.19202610868876,
+        "Longitude": -105.13888828538559
+    },
+    {
+        "FID": 7,
+        "AccessName": "Teller Farm North",
+        "Address": "8990 Valmont",
+        "BikeTrail": "Yes",
+        "FISHING": "Yes",
+        "ADAtrail": "Easy",
+        "Latitude": 40.062041209952916,
+        "Longitude": -105.13178948270183
+    },
+    {
+        "FID": 8,
+        "AccessName": "Cottonwood",
+        "Address": "5102 Independence Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Easy",
+        "Latitude": 39.979509201240994,
+        "Longitude": -105.03020312060642
+    },
+    {
+        "FID": 9,
+        "AccessName": "Left Hand",
+        "Address": "3850 Neva Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.005754120169954,
+        "Longitude": -105.22204129330933
+    },
+    {
+        "FID": 10,
+        "AccessName": "Boulder Valley Ranch",
+        "Address": "3900 Longhorn Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Moderate-Difficult",
+        "Latitude": 40.42011822480232,
+        "Longitude": -105.81181171205765
+    },
+    {
+        "FID": 11,
+        "AccessName": "Eagle",
+        "Address": "5797 51st St",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Moderate-Most Difficult",
+        "Latitude": 39.92777426690249,
+        "Longitude": -105.00898186112018
+    },
+    {
+        "FID": 12,
+        "AccessName": "Four Mile Creek",
+        "Address": "420 Lee Hill Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.11130431847637,
+        "Longitude": -105.30644396738776
+    },
+    {
+        "FID": 13,
+        "AccessName": "Foothills",
+        "Address": "5273 North Broadway",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.04711397707176,
+        "Longitude": -105.26057735891143
+    },
+    {
+        "FID": 14,
+        "AccessName": "Wonderland Lake",
+        "Address": "4201 N. Broadway",
+        "BikeTrail": "Yes",
+        "FISHING": "Yes",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.08722829956535,
+        "Longitude": -105.26358437410359
+    },
+    {
+        "FID": 15,
+        "AccessName": "Sawhill Ponds",
+        "Address": "3400 75th St",
+        "BikeTrail": "No",
+        "FISHING": "Yes",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.06873950801074,
+        "Longitude": -105.2897805108198
+    },
+    {
+        "FID": 16,
+        "AccessName": "Bobolink",
+        "Address": "5880 Baseline Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "Yes",
+        "ADAtrail": "Easy to Moderate",
+        "Latitude": 39.99484916894033,
+        "Longitude": -105.27382260544903
+    },
+    {
+        "FID": 17,
+        "AccessName": "Dry Creek",
+        "Address": "6802 Baseline Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Easy",
+        "Latitude": 40.050895398441504,
+        "Longitude": -105.17857983686964
+    },
+    {
+        "FID": 18,
+        "AccessName": "Cherryvale",
+        "Address": "66 S. Cherryvale Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Easy",
+        "Latitude": 39.99595028220563,
+        "Longitude": -105.28242311281014
+    },
+    {
+        "FID": 19,
+        "AccessName": "Enchanted Mesa",
+        "Address": "198 Morning Glory Dr",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 39.98638937054198,
+        "Longitude": -105.31983658344605
+    },
+    {
+        "FID": 20,
+        "AccessName": "Gregory Canyon",
+        "Address": "171 Flagstaff Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.00502721994529,
+        "Longitude": -105.30652280443539
+    },
+    {
+        "FID": 21,
+        "AccessName": "South Boulder Creek West",
+        "Address": "1405 South Foothills Hwy.",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 39.98011135580291,
+        "Longitude": -105.09110676965913
+    },
+    {
+        "FID": 22,
+        "AccessName": "Lost Gulch Overlook",
+        "Address": "None",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.08589400557897,
+        "Longitude": -105.20642618055942
+    },
+    {
+        "FID": 23,
+        "AccessName": "Panorama Point",
+        "Address": "1000 Flagstaff Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Moderate-Difficult",
+        "Latitude": 39.926137309407416,
+        "Longitude": -105.07110531542922
+    },
+    {
+        "FID": 24,
+        "AccessName": "Crown Rock",
+        "Address": "2100 Flagstaff Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Difficult",
+        "Latitude": 40.221692088994054,
+        "Longitude": -105.25623473394472
+    },
+    {
+        "FID": 25,
+        "AccessName": "Greenbelt Plateau",
+        "Address": "5101 Highway 128",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Difficult",
+        "Latitude": 40.222177801441454,
+        "Longitude": -105.25465690603022
+    },
+    {
+        "FID": 26,
+        "AccessName": "Marshall Mesa",
+        "Address": "5258 E. Eldorado Springs Dr",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Moderate-Difficult",
+        "Latitude": 39.99608184616037,
+        "Longitude": -105.2736646232316
+    },
+    {
+        "FID": 27,
+        "AccessName": "Flatirons Vista",
+        "Address": "3663 State Hwy. 93",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Most Difficult",
+        "Latitude": 40.400871736654096,
+        "Longitude": -105.84874413665557
+    },
+    {
+        "FID": 28,
+        "AccessName": "Halfway House",
+        "Address": "1100 Flagstaff Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.306625726273225,
+        "Longitude": -105.53778774839574
+    },
+    {
+        "FID": 29,
+        "AccessName": "Realization Point",
+        "Address": "3400 Flagstaff Rd",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.02385426486688,
+        "Longitude": -105.29385170173857
+    },
+    {
+        "FID": 30,
+        "AccessName": "South Mesa",
+        "Address": "4111 Eldorado Springs Dr.",
+        "BikeTrail": "No",
+        "FISHING": "Yes",
+        "ADAtrail": "Easy-Difficult",
+        "Latitude": 40.153037155781384,
+        "Longitude": -105.03949931835784
+    },
+    {
+        "FID": 31,
+        "AccessName": "Doudy Draw",
+        "Address": "4100 Eldorado Springs Dr.",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "Moderate",
+        "Latitude": 40.01334511641701,
+        "Longitude": -105.29459579425472
+    },
+    {
+        "FID": 32,
+        "AccessName": "NCAR",
+        "Address": "1850 Table Mesa Dr",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "Moderate-Difficult",
+        "Latitude": 40.346021521852066,
+        "Longitude": -105.58471722375332
+    },
+    {
+        "FID": 33,
+        "AccessName": "Fourth of July",
+        "Address": "4800 4th of July Rd",
+        "BikeTrail": "Yes",
+        "FISHING": "Yes",
+        "ADAtrail": "Yes",
+        "Latitude": 40.23969643017221,
+        "Longitude": -105.8002082669575
+    },
+    {
+        "FID": 34,
+        "AccessName": "Chapman Drive",
+        "Address": "38471 Boulder Canyon Drive",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 40.22363145071373,
+        "Longitude": -105.27188144223979
+    },
+    {
+        "FID": 35,
+        "AccessName": "Joder Ranch",
+        "Address": "None",
+        "BikeTrail": "Yes",
+        "FISHING": "No",
+        "ADAtrail": "No",
+        "Latitude": 39.993160284768045,
+        "Longitude": -105.22900638984791
+    },
+    {
+        "FID": 36,
+        "AccessName": "Chautauqua",
+        "Address": "900 Baseline",
+        "BikeTrail": "No",
+        "FISHING": "No",
+        "ADAtrail": "No (ADA access to cottage)",
+        "Latitude": 40.21134257408713,
+        "Longitude": -105.273052146481
+    }
+]
